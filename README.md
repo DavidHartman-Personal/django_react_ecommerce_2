@@ -69,9 +69,7 @@ the project can be uploaded to github by going to "VCS->Share on Github".
 The github repo does not include a README.md, so sync this file with that repo by going to the drop down menu on the far right and choosing: "Versions and GitHub Sync".
 This will create a README.md file.  Then switch back to PyCharm and do a "GIT->Update Project...". This will pull down the README.md file. 
 Whenever changes to this README should be pushed to github choose the "Versions and GitHub Sync" option again.
-
-Update at 9:08PM
-Updated at 9:11PM
+Locally, Use "Git->Update Project" to bring down latest README.md file if needed.
 
 Newly created git repo: https://github.com/DavidHartman-Personal/django_react_ecommerce_2
 Note pyton version/venv to use??

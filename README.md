@@ -71,6 +71,7 @@ This will create a README.md file.  Then switch back to PyCharm and do a "GIT->U
 Whenever changes to this README should be pushed to github choose the "Versions and GitHub Sync" option again.
 
 Update at 9:08PM
+Updated at 9:11PM
 
 Newly created git repo: https://github.com/DavidHartman-Personal/django_react_ecommerce_2
 Note pyton version/venv to use??

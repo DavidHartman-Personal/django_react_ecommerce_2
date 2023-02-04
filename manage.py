@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Django's command-line utility for administrative tasks.  Update made locally."""
+"""Django's command-line utility for administrative tasks.  Update made locally.  Take 2"""
 import os
 import sys
 
